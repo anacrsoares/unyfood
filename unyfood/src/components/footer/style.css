@@ -1,0 +1,25 @@
+.footer_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  color: #fff;
+  background: #ed1c16;
+  height: 100px;
+  align-items: center;
+}
+
+.icons {
+  display: flex;
+  gap: 5px;
+}
+
+.icons img:first-child {
+  width: 20px;
+  cursor: pointer;
+}
+
+.icons img:last-child {
+  width: 25px;
+  cursor: pointer;
+}

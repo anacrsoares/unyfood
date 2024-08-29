@@ -44,3 +44,16 @@
 .restaurant_card .restaurant_info p:first-child {
   font-weight: bold;
 }
+
+.see_more {
+  margin-top: 10px;
+  font-size: 1.2em;
+  text-align: end;
+  color: #ed1c16;
+}
+
+.see_more:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #f6544e;
+}

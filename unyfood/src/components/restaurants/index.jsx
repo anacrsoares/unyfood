@@ -16,6 +16,8 @@ export default function Restaurants() {
           />
         ))}
       </div>
+
+      <p className="see_more">Ver mais</p>
     </div>
   );
 }
